@@ -4,7 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:063448,100:00D9FF&height=220&section=header&text=ALAMIN%20TALUKDER&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Student%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
 
-<img src="./assets/alamin-profile.png" width="180" height="180" style="border-radius:50%;" alt="Alamin Talukder" />
 
 <br/>
 
